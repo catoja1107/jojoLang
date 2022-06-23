@@ -2,13 +2,13 @@
 Esoteric language based on JoJo's Bizarre Adventure keywords
 
 # Syntax
-yare
-yareyare
-yareyaredaze
-ora BOFunct
-oraora  BOMethod
-oraoraora BOFile
-muda  EOFunct
-mudamuda EOMethod
-mudamudamuda EOFile
-zawarudo  return
+<p>yare<br>
+yareyare<br>
+yareyaredaze<br>
+ora BOFunct<br>
+oraora  BOMethod<br>
+oraoraora BOFile<br>
+muda  EOFunct<br>
+mudamuda EOMethod<br>
+mudamudamuda EOFile<br>
+zawarudo  return</p><br>
