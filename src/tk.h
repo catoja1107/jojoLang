@@ -1,4 +1,3 @@
-//token file
 /** 
 jojoLang Tokenizer
 MIT License Copyright
